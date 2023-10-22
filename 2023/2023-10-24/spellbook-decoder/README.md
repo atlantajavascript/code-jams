@@ -1,0 +1,2 @@
+## Spellbook Decoder 🧙‍♂️
+Imagine a wizard's spellbook where each spell is encoded. Each letter in the spell is replaced by the letter some fixed number of positions down the alphabet. Your task is to decode the spells.

@@ -1,0 +1,2 @@
+## Spooky Word Scramble 🔠
+Create a word scramble game with a list of Halloween-themed words. Display a scrambled word and provide an input for users to type the unscrambled word. Keep track of the score.
