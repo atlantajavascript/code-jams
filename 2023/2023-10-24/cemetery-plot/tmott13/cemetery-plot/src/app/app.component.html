@@ -1,0 +1,5 @@
+<mat-grid-list cols="2" rowHeight="4:1">
+  <ng-container *ngFor="let p of plot;">
+    <mat-grid-tile><app-plot [name]="p.name" [funFact]="p.funFact"></app-plot></mat-grid-tile>
+  </ng-container>
+</mat-grid-list>
