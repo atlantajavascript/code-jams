@@ -1,0 +1,2 @@
+## Thanksgiving Meal Simulator 🍗
+Simulate the preparation of a Thanksgiving meal using asynchronous JavaScript. Create a set of functions representing different dishes being prepared. Each function should return a promise that resolves after a certain amount of time, simulating the cooking time. Include a function to coordinate the meal preparation, ensuring that some dishes start only after certain others are completed and that all dishes are ready at approximately the same time. For complexity, account for a limited amount of ovens and/or burners for cooking.

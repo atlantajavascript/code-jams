@@ -1,0 +1,2 @@
+## Holiday Volunteer Schedule Optimizer 📋
+Create a function to optimally schedule volunteers for a holiday charity event. The function should take an array of volunteers, each with their available time slots, and the total number of time slots for the event. The goal is to assign volunteers to time slots, ensuring each slot has at least one volunteer and the distribution is as even as possible. Optionally, create a UI to add volunteers and their availability, then display the schedule.
